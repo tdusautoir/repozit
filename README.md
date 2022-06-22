@@ -12,6 +12,8 @@ Usage:
 ./repozit.sh (-o|--opt)
 ```
 
+Options :
+
 -n, --name: insert the name of repo.  
 -d, --description: Insert the description for the repo.  
 -p, --path: insert your project path from the actual directory.  
