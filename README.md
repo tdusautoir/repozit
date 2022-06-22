@@ -19,7 +19,7 @@ Options :
 -p, --path: insert your project path from the actual directory.  
 -u, --username: insert your github username.  
 -t, --token: insert your github token.
--a, --all: insert all of the arguments, use is as -a [name] [description] [path] [username] [token]
+-a, --all: insert all of the arguments, use is as -a [name] [description] [path] [username] [token]  
 -v, --version: Prints version.  
 -h, --help: Prints help.  
 
