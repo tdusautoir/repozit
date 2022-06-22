@@ -6,7 +6,11 @@ A linux bash to create a repository on github and locally in order to link them.
 
 Be careful, you must have git and curl installed.
 
-Usage: ./repozit.sh (-o|--opt)
+Usage: 
+
+```sh
+./repozit.sh (-o|--opt)
+```
 
 -n, --name: insert the name of repo.  
 -d, --description: Insert the description for the repo.  
